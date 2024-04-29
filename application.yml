@@ -5,8 +5,5 @@ eureka:
     register-with-eureka:
       value: false
     fetch-registry:
-<<<<<<< HEAD:application.yml
       value: false
-=======
-      value: false
->>>>>>> beffa7560fe19ee974242ac879a5c71e85f8398a:application.properties
+
